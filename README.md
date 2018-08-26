@@ -12,6 +12,8 @@ We developed a mobile app that allows users to rate flats and leave reviews with
 
 The app uses Trade Me's API to pull data about flats and merge it with crowd-sourced datasets as populated by reviews and ratings. The version hosted in this repo was produced in 16 hours and is able to search for flats and store review information inputted in a Firebase realtime database.
 
+<img src="resources/media/sshot1.png" width="50%" height="50%"><img src="resources/media/sshot2.png" width="50%" height="50%">
+
 ## The Team
 
 **DESIGNERS**
