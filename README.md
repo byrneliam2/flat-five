@@ -2,6 +2,8 @@
 
 Repo for Summer of Tech's Create Camp 2018, where our team came up with a solution for tenants to share their flatting experiences with others through our app, Flat Five.
 
+#### [Check it out here!](https://markmetcalfe.io/flatfive)
+
 ## Background
 
 It is often hard for tenants to find out about firsthand experiences with flats since information is often conveyed across platforms that are not necessarily suited for it (e.g. Facebook groups.) These "reviews" are also often not consolidated such that one flat can be linked with several experiences.
